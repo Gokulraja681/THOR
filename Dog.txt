@@ -1,0 +1,3 @@
+Dog is a friendly animal.
+They are very loyal to thier owners.
+Dog also protect the owners properties.
